@@ -52,6 +52,7 @@ To contribute:
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
  |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
+ |  [Citi](https://jobs.citi.com/search-jobs) |  Toronto, Montreal |  |  Software Development, Production Support |
 
 
  # Applications Open February 
